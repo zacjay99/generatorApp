@@ -2,3 +2,4 @@ flask
 textblob
 gunicorn
 google-generativeai
+replicate
